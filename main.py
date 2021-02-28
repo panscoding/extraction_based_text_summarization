@@ -51,8 +51,8 @@ def _run_article_summary(article):
     return article_summary
 
 if __name__ == '__main__':
-    # URL = 'https://en.wikipedia.org/wiki/20th_century'
-    # article_content = _fetch_content_from_url(URL)
+    # URL = 'https://en.wikipedia.org/wiki/21th_century'
+    # article_content = fetch_content_from_url(URL)
 
     article_content = "Junk foods taste good that’s why it is mostly liked by everyone of any age group especially kids and school going children. " \
                       "They generally ask for the junk food daily because they have been trend so by their parents from the childhood. " \
